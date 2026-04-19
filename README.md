@@ -37,4 +37,4 @@ Para ejecutar este proyecto en tu computadora utilizando entornos como Laragon o
 
 1. **Clonar el repositorio:**
    ```bash
-   git clone [https://github.com/tu-usuario/nombre-del-repo.git](https://github.com/tu-usuario/nombre-del-repo.git)
+   git clone https://github.com/leandro777-SVR/Local-Comercial
